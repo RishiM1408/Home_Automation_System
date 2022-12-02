@@ -40,7 +40,7 @@ Night Bulb | 5
 
 
 
-## Parent's Room
+## Guest's Room
 ### function name -> mr()
 
 Appliance | Pin
