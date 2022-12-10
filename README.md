@@ -28,7 +28,7 @@ Night Bulb | 7
 
 
 ## Rishi's Room
-### function name -> jr()
+### function name -> rr()
 
 Appliance | Pin
 --- | ---
@@ -41,7 +41,7 @@ Night Bulb | 5
 
 
 ## Guest's Room
-### function name -> mr()
+### function name -> gr()
 
 Appliance | Pin
 --- | ---
