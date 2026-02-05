@@ -1,3 +1,7 @@
+<div align="center">
+  <h3>Project Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=RishiM1408-home-automation&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
+</div>
 # Table list
 
 ## MasterBedroom
